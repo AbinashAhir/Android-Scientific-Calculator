@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="squareError">Please enter a valid number..</string>
+</resources>
